@@ -1,5 +1,5 @@
 -- โหลดไฟล์ Config และ Functions (เปลี่ยน URL เป็นลิงก์ GitHub ของคุณ)
--- loadstring(game:HttpGet("URL_TO_CONFIG"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RainnyHub/blox_fruit_autofarm/refs/heads/main/Config.lua"))()
 -- loadstring(game:HttpGet("URL_TO_FUNCTIONS"))()
 
 local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
